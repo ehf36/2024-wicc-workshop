@@ -1,7 +1,7 @@
 [
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
+    "role": "Designer",
     "time": "2023 - Present",
     "bullet points": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -11,7 +11,7 @@
   },
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
+    "role": "Researcher and Designer",
     "time": "2023 - Present",
     "bullet points": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -21,7 +21,7 @@
   },
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
+    "role": "UX Designer",
     "time": "2023 - Present",
     "bullet points": [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
